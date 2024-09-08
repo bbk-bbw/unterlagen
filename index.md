@@ -18,3 +18,19 @@ This is a warning callout.
 <div class="callout callout-error">
 This is an error callout.
 </div>
+
+
+> :warning: **Warning:** This is a warning callout.
+
+> :information_source: **Info:** This is an information callout.
+
+> :bulb: **Tip:** This is a tip callout.
+
+> [!NOTE]
+> This is a note callout.
+
+> [!WARNING]
+> This is a warning callout.
+
+> [!TIP]
+> This is a tip callout.
