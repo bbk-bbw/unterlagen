@@ -34,3 +34,9 @@ This is an error callout.
 
 > [!TIP]
 > This is a tip callout.
+
+> **Warning:** This is a warning message.
+{: .callout .callout-warning}
+
+> **Info:** This is an informational message.
+{: .callout .callout-info}
