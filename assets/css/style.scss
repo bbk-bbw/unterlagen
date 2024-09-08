@@ -11,14 +11,19 @@
   border-left-width: 5px;
 }
 
-.callout-info {
-  background-color: #f0f7fb;
-  border-left-color: #5bc0de;
+.callout-tip {
+  background-color: #e6f6e6;
+  border-left-color: #4caf50;
 }
 
-.callout-warning {
-  background-color: #fdf7f1;
-  border-left-color: #f0ad4e;
+.callout-success {
+  background-color: #f0fff0;
+  border-left-color: #32cd32;
+}
+
+.callout-question {
+  background-color: #e6f3ff;
+  border-left-color: #2196f3;
 }
 
 .callout strong {
