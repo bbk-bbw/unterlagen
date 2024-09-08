@@ -7,13 +7,13 @@ title: Test Page
 
 This is a test page.
 
-> [!info] Info
-> This is an info callout.
+>[!info] Info
+>This is an info callout.
 
-> [!warning] Wichtig
-> This is a warning callout. Posso scrivere.
+>[!warning] Wichtig
+>This is a warning callout. Posso scrivere.
 
-> [!tip] Praxis
+>[!tip] Praxis
 > Stellen Sie sich vor: Ein Lernender kommt zu Ihnen und ist frustriert über einen Fehler, den er wiederholt gemacht hat...
 
 > [!success] Lernziele
