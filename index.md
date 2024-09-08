@@ -7,19 +7,11 @@ title: Test Page
 
 This is a test page.
 
-<div class="callout callout-info">
-  <strong>Info:</strong> This is an info callout.
-</div>
+> [!info] Info
+> This is an info callout.
 
-<div class="callout callout-info">
-  <strong>Info:</strong> This is an info callout.
-</div>
-
-<div class="callout callout-warning">
-  </p><strong>Wichtig:</strong> This is a warning callout.</div></p>
-  <p>posso scrivere</p>
-</div>
-
+> [!warning] Wichtig
+> This is a warning callout. Posso scrivere.
 
 > [!tip] Praxis
 > Stellen Sie sich vor: Ein Lernender kommt zu Ihnen und ist frustriert über einen Fehler, den er wiederholt gemacht hat...
@@ -29,3 +21,4 @@ This is a test page.
 
 > [!question] Diskussion: Bedeutung von Reflexion
 > **Selbstreflexion** ist nicht nur für Lernende, sondern auch für Berufsbildner/innen relevant...
+
