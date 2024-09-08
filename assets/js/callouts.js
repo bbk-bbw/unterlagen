@@ -1,13 +1,18 @@
 document.addEventListener('DOMContentLoaded', function() {
   const callouts = document.querySelectorAll('blockquote');
+  
   callouts.forEach(function(callout) {
+    // Match the pattern [!type] at the beginning of the blockquote
     const firstLine = callout.innerHTML.split('\n')[0];
     const match = firstLine.match(/\[!(\w+)\]/);
+    
     if (match) {
-      const type = match[1].toLowerCase();
+      const type = match[1].toLowerCase();  // Get the callout type, e.g., 'info', 'success'
+      
+      // Add callout classes for styling
       callout.classList.add('callout', `callout-${type}`);
-
-      // Choose an icon based on the callout type
+      
+      // Replace [!type] with an appropriate icon and strong text
       let icon;
       switch (type) {
         case 'info':
@@ -26,10 +31,10 @@ document.addEventListener('DOMContentLoaded', function() {
           icon = '<i class="fas fa-question-circle"></i>';
           break;
         default:
-          icon = ''; // No icon if type is unrecognized
+          icon = ''; // Default: no icon for unrecognized callout types
       }
 
-      // Update the callout content to include the icon
+      // Update the inner HTML to remove the [!type] marker and add icon + bold label
       callout.innerHTML = callout.innerHTML.replace(/\[!(\w+)\]\s*/, `${icon} <strong>${match[1].toUpperCase()}:</strong> `);
     }
   });
