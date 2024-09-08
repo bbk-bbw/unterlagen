@@ -9,7 +9,7 @@ markdown: kramdown
 highlighter: rouge
 
 # Theme settings (Optional)
-theme: minima  # GitHub Pages has default themes like "minima". You can use this or another theme.
+theme: jekyll-theme-cayman
 
 # Exclude files from processing
 exclude:
