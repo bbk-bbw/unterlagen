@@ -1,0 +1,25 @@
+# Site settings
+title: "My GitHub Page"
+description: "A site for my teaching materials"
+baseurl: ""  # If your site is at the root of the domain, leave this blank. If it's in a repo, use '/your-repo-name'.
+url: "https://your-username.github.io"  # Your site's URL
+
+# Markdown and highlight settings
+markdown: kramdown
+highlighter: rouge
+
+# Theme settings (Optional)
+theme: minima  # GitHub Pages has default themes like "minima". You can use this or another theme.
+
+# Exclude files from processing
+exclude:
+  - README.md
+  - node_modules/
+
+# Directory for your assets
+sass:
+  sass_dir: _sass
+
+# Build settings
+plugins:
+  - jekyll-seo-tag  # This plugin helps with SEO (Search Engine Optimization)
