@@ -1,14 +1,16 @@
----
----
-
-@import "{{ site.theme }}";
-
 .callout {
   padding: 20px;
   margin: 20px 0;
   border: 1px solid #eee;
   border-radius: 3px;
   border-left-width: 5px;
+  display: flex;
+  align-items: center; /* Ensure the icon and text are vertically aligned */
+}
+
+.callout i {
+  margin-right: 10px; /* Add some space between the icon and text */
+  font-size: 1.2em;   /* Increase icon size slightly */
 }
 
 .callout-tip {
@@ -21,16 +23,6 @@
   border-left-color: #32cd32;
 }
 
-.callout-question {
-  background-color: #e6f3ff;
-  border-left-color: #2196f3;
-}
-
-.callout strong {
-  text-transform: uppercase;
-  font-weight: bold;
-}
-
 .callout-info {
   background-color: #e6f3ff;
   border-left-color: #2196f3;
@@ -39,4 +31,9 @@
 .callout-warning {
   background-color: #fff8e6;
   border-left-color: #ff9800;
+}
+
+.callout-question {
+  background-color: #f9f9ff;
+  border-left-color: #673ab7;
 }
