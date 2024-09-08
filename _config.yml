@@ -18,7 +18,7 @@ exclude:
 
 # Directory for your assets
 sass:
-  sass_dir: _sass
+  sass_dir: assets/css
 
 # Build settings
 plugins:
