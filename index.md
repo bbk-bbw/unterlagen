@@ -11,6 +11,7 @@ This is a simple example of a GitHub Pages site using Markdown.
 
 ```python
 print("Hello World!")
+```
 
 
 # Einführung in Die Taxonomie von Lernzielen nach Bloom
