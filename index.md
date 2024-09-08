@@ -16,5 +16,6 @@ This is a test page.
 </div>
 
 <div class="callout callout-warning">
-  <strong>Warning:</strong> This is a warning callout.
+  <strong>Wichtig:</strong> This is a warning callout.
+  posso scrivere?
 </div>
