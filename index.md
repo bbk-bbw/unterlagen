@@ -2,6 +2,18 @@
 
 This is a simple example of a GitHub Pages site using Markdown.
 
+<div class="callout callout-success">
+This is a success callout. Everything is working as expected!
+</div>
+
+<div class="callout callout-warning">
+This is a warning callout. Be cautious when proceeding.
+</div>
+
+<div class="callout callout-error">
+This is an error callout. Something went wrong!
+</div>
+
 ## Features of Markdown
 
 - **Bold Text**
