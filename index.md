@@ -1,42 +1,28 @@
 ---
 layout: default
-title: "Home"
+title: Welcome to My Teaching Materials
 ---
 
-# Welcome to My Site
+# Welcome to My Teaching Materials
 
-This is a test page to confirm that Jekyll is running.
+This is the homepage for my teaching materials. Here you'll find various resources and information related to my courses.
 
-<div class="callout callout-success">
-This is a success callout.
+## Courses
+
+- [Course 1: Introduction to Programming](/courses/intro-programming)
+- [Course 2: Advanced Data Structures](/courses/advanced-data-structures)
+- [Course 3: Web Development Basics](/courses/web-development)
+
+## Recent Updates
+
+<div class="callout callout-info">
+  <strong>New Content:</strong> I've just added new materials for the Advanced Data Structures course. Check it out!
 </div>
+
+## Get in Touch
+
+If you have any questions about the materials or courses, please don't hesitate to [contact me](mailto:your.email@example.com).
 
 <div class="callout callout-warning">
-This is a warning callout.
+  <strong>Note:</strong> This site is regularly updated. Make sure to check back often for new content and announcements.
 </div>
-
-<div class="callout callout-error">
-This is an error callout.
-</div>
-
-
-> :warning: **Warning:** This is a warning callout.
-
-> :information_source: **Info:** This is an information callout.
-
-> :bulb: **Tip:** This is a tip callout.
-
-> [!NOTE]
-> This is a note callout.
-
-> [!WARNING]
-> This is a warning callout.
-
-> [!TIP]
-> This is a tip callout.
-
-> **Warning:** This is a warning message.
-{: .callout .callout-warning}
-
-> **Info:** This is an informational message.
-{: .callout .callout-info}
