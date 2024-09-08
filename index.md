@@ -1,3 +1,23 @@
+# My Page with Callouts
+
+Here is a success callout:
+
+<div class="callout callout-success">
+This is a success callout. Everything is working as expected!
+</div>
+
+Here is a warning callout:
+
+<div class="callout callout-warning">
+This is a warning callout. Be cautious when proceeding.
+</div>
+
+Here is an error callout:
+
+<div class="callout callout-error">
+This is an error callout. Something went wrong!
+</div>
+
 # Welcome to My GitHub Page
 
 This is a simple example of a GitHub Pages site using Markdown.
