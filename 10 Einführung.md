@@ -1,11 +1,11 @@
 # Einführung in Projektarbeit in der Berufsausbildung
-> [!tip] Praxis
-> Stellen Sie sich vor: Ihre lernende Person hat eine Aufgabe erfolgreich abgeschlossen. Sie möchten diese Leistung anerkennen und gleichzeitig die Chance nutzen, die Person in ihrer Entwicklung zu fördern. Wie wäre es, wenn Sie der Person die Möglichkeit geben, ein kleines Projekt eigenständig zu planen und durchzuführen? 
+>[!tip] Praxis
+>Stellen Sie sich vor: Ihre lernende Person hat eine Aufgabe erfolgreich abgeschlossen. Sie möchten diese Leistung anerkennen und gleichzeitig die Chance nutzen, die Person in ihrer Entwicklung zu fördern. Wie wäre es, wenn Sie der Person die Möglichkeit geben, ein kleines Projekt eigenständig zu planen und durchzuführen? 
 >- Welche Aufgabenbereiche wären in Ihrem Betrieb für ein solches Projekt geeignet?
 >- Welche Kompetenzen könnte die lernende Person dabei vertiefen?
 >- Wie könnten Sie die lernende Person bei der Planung und Durchführung unterstützen, ohne ihr die Verantwortung abzunehmen?
 
-> [!success]- Lernziele
+>[!success]- Lernziele
 Dieser Einheit widmet sich der **Projektarbeit** als innovative und effektive Methode der Berufsausbildung. Sie lernen, wie Sie Projekte in Ihren betrieblichen Alltag integrieren, um die Handlungskompetenz und die Motivation Ihrer Lernenden zu fördern. 
 **Das Ziel dieses Moduls ist, dass...**
 >* ...Sie die Bedeutung von Projektarbeit in der Berufsausbildung erfassen und für Ihren Kontext nutzbar machen können.
