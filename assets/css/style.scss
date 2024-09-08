@@ -1,0 +1,27 @@
+---
+---
+
+@import "{{ site.theme }}";
+
+.callout {
+  padding: 20px;
+  margin: 20px 0;
+  border: 1px solid #eee;
+  border-radius: 3px;
+  border-left-width: 5px;
+}
+
+.callout-info {
+  background-color: #f0f7fb;
+  border-left-color: #5bc0de;
+}
+
+.callout-warning {
+  background-color: #fdf7f1;
+  border-left-color: #f0ad4e;
+}
+
+.callout strong {
+  text-transform: uppercase;
+  font-weight: bold;
+}
